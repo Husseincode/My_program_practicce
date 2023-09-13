@@ -7,7 +7,6 @@
 
 int main(void)
 {
-	char greetings[] = "Hello, World";
-	printf("%s", greetings);
+	printf("My first program in c");
 	return (0);
 }
